@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18241#Tea-Cup-Reading-and-Fortune-Telling-by-Tea-Leaves-by-a-Highland-Seer
 gutenberg_issued: '2006-04-24'
 gutenberg_type: Text
 identifiers:
