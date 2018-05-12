@@ -1,0 +1,19 @@
+_repo: Tea-Cup-Reading-and-Fortune-Telling-by-Tea-Leaves-by-a-Highland-Seer_18241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortune-telling by tea leaves'
+- !lcc 'BF'
+title: Tea-Cup Reading and Fortune-Telling by Tea Leaves, by a Highland Seer
+url: http://www.gutenberg.org/ebooks/18241
